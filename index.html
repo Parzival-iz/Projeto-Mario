@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Mario Bros.</title>
+</head>
+
+<body>
+
+    <div class="mask-form" onclick="esconderform()"></div>
+    
+    <header>
+        <img src="./assets/icon.png" alt="img-icon">
+        <a>Home</a>
+        <a>Our Services</a>
+        <a>Contact Us</a>
+
+    </header>
+
+
+    <div class="box-mom">
+        <div class="box-about-us">
+            <img src="./assets/logo.png" alt="logo-do-mario" class="logo-mario">
+            <p>🔧 Encanadores Mario & Luigi - Resolvendo Seus Problemas Hidráulicos Com Estilo! 🔧</p>
+            <p> Você já se encontrou em uma situação de emergência com encanamento? Vazamentos inesperados, canos
+                entupidos ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia!
+                Apresentamos a vocês os encanadores mais famosos do Reino dos Cogumelos - Mario e Luigi!</p>
+            <button onclick="mostrarform()">Entre em Contato</button>
+        </div>
+
+        <div>
+            <img src="./assets/mario.png" alt="mario-e-luigi" class="img-mario-luigi">
+        </div>
+    </div>
+
+    <div class="box-video">
+        <video src="./assets/video.mp4" autoplay muted loop></video>
+        <div class="mask"></div>
+    </div>
+
+    <a href="https://wa.me/5511980634589?text=Quero+falar+com+os+irm%C3%A3os+Mario.">
+        <img src="./assets/WhatsApp_Logo_PNG_Sem_Fundo_Transparente.png" alt="img-whatsapp" class="link-whatsapp">
+    </a>
+
+    <form class="form-contact-us" action="https://formcarry.com/s/Anejj2egZwJ" method="POST"
+        enctype="multipart/form-data">
+        <input placeholder="Seu nome" type="text" name="nome">
+        <input placeholder="Seu telefone" type="tel" name="telefone">
+        <textarea placeholder="Digite seu problema..." name="problema"></textarea>
+        <button type="submit">Pedir orçamento</button>
+    </form>
+
+</body>
+<script src="./scripts.js"></script>
+
+</html>
