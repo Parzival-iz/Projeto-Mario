@@ -9,10 +9,10 @@ Este projeto é um site para o nosso mais famoso encanador Mario. Utilizando tec
 - **JavaScript**: Funcionalidades e interatividade.
 
 ## 🎮 Funcionalidades
-- Controle do personagem Mario com as setas do teclado.
+- Formulário de contato.
 - Animações e sprites para simular o movimento.
-- Detecção de colisão com obstáculos.
-- Contagem de pontos baseada no progresso do jogador.
+- Design responsivo.
+- Vídeo de fundo.
 
 ## 📂 Como Executar o Projeto
 1. Clone este repositório:
@@ -26,9 +26,9 @@ Este projeto é um site para o nosso mais famoso encanador Mario. Utilizando tec
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
 ## 📈 Melhorias Futuras
-- Adicionar níveis adicionais com dificuldade progressiva.
-- Implementar sistema de vidas e checkpoints.
-- Adicionar música e efeitos sonoros.
+- Adicionar mais contéudo para o cliente.
+- Implementar um sistema de carrinho.
+- Adicionar uma forma de frete.
 - Otimizar o código para melhor desempenho.
 
 
