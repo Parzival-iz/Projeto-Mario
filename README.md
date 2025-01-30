@@ -1,7 +1,7 @@
 # Projeto Mario
 
 ## 📌 Sobre o Projeto
-Este projeto é uma recriação do clássico jogo Mario utilizando tecnologias web. O objetivo é praticar e demonstrar habilidades em HTML, CSS e JavaScript, criando uma versão interativa e responsiva do jogo.
+Este projeto é um site para o nosso mais famoso encanador Mario. Utilizando tecnologias web, o objetivo é praticar e demonstrar habilidades em HTML, CSS e JavaScript, criando uma versão interativa e responsiva do site do Mario.
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML**: Estruturação do conteúdo.
